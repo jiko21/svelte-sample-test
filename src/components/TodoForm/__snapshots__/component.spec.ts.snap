@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Input change value and active button 1`] = `
+<body>
+  <div>
+    <div
+      class="todo-form"
+    >
+      <input
+        class="svelte-9hrj2z"
+        data-testid="todo-input"
+        type="text"
+      />
+       
+      <button
+        class="disabled svelte-1ohb8zt"
+        data-testid="submit"
+        disabled=""
+      >
+        ADD
+      </button>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`components/Input correctly render 1`] = `
+<body>
+  <div>
+    <div
+      class="todo-form"
+    >
+      <input
+        class="svelte-9hrj2z"
+        data-testid="todo-input"
+        type="text"
+      />
+       
+      <button
+        class="disabled svelte-1ohb8zt"
+        data-testid="submit"
+        disabled=""
+      >
+        ADD
+      </button>
+    </div>
+  </div>
+</body>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Card disabled correctly render 1`] = `
+<body>
+  <div>
+    <div
+      class="card svelte-ab6tor"
+    />
+  </div>
+</body>
+`;

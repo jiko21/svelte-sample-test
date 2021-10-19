@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/Button danger correctly render 1`] = `
+<body>
+  <div>
+    <button
+      class="danger svelte-1ohb8zt"
+      data-testid=""
+    >
+      button
+    </button>
+  </div>
+</body>
+`;
+
+exports[`components/Button disabled correctly render 1`] = `
+<body>
+  <div>
+    <button
+      class="disabled svelte-1ohb8zt"
+      data-testid=""
+      disabled=""
+    >
+      button
+    </button>
+  </div>
+</body>
+`;
+
+exports[`components/Button primary correctly render 1`] = `
+<body>
+  <div>
+    <button
+      class="primary svelte-1ohb8zt"
+      data-testid=""
+    >
+      button
+    </button>
+  </div>
+</body>
+`;

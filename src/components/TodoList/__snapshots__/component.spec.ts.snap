@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components/TodoList correctly render 1`] = `
+<body>
+  <div>
+    <ul
+      class="svelte-c9lhan"
+    >
+      <li
+        class="svelte-c9lhan"
+      >
+        <div
+          class="card svelte-ab6tor"
+        >
+          <div
+            class="card-container svelte-c9lhan"
+          >
+            <span
+              class="svelte-c9lhan"
+            >
+              test1test1
+            </span>
+             
+            <button
+              class="danger svelte-1ohb8zt"
+              data-testid="remove-0"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+         
+      </li>
+      <li
+        class="svelte-c9lhan"
+      >
+        <div
+          class="card svelte-ab6tor"
+        >
+          <div
+            class="card-container svelte-c9lhan"
+          >
+            <span
+              class="svelte-c9lhan"
+            >
+              test2test2
+            </span>
+             
+            <button
+              class="danger svelte-1ohb8zt"
+              data-testid="remove-1"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+         
+      </li>
+      <li
+        class="svelte-c9lhan"
+      >
+        <div
+          class="card svelte-ab6tor"
+        >
+          <div
+            class="card-container svelte-c9lhan"
+          >
+            <span
+              class="svelte-c9lhan"
+            >
+              test3test3
+            </span>
+             
+            <button
+              class="danger svelte-1ohb8zt"
+              data-testid="remove-2"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+         
+      </li>
+    </ul>
+  </div>
+</body>
+`;
